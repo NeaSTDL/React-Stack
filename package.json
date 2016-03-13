@@ -1,0 +1,48 @@
+{
+  "name": "React-Stack",
+  "version": "0.0.0",
+  "description": "Base React Stack for PERN ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "grunt watch",
+    "web": "webpack-dev-server --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/randgris-team/React-Stack.git"
+  },
+  "keywords": [
+    "React",
+    "Express",
+    "PostgreSQL",
+    "Node",
+    "Webpack"
+  ],
+  "author": "Randgris Ventures",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/randgris-team/React-Stack/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.4",
+    "react": "~0.14.7",
+    "react-dom": "~0.14.7"
+  },
+  "devDependencies": {
+    "babel-core": "~6.7.2",
+    "babel-loader": "~6.2.4",
+    "babel-plugin-transform-react-jsx": "~6.6.5",
+    "babel-preset-es2015": "~6.6.0",
+    "babel-preset-react": "~6.5.0",
+    "chai": "~3.5.0",
+    "grunt": "~0.4.5",
+    "grunt-contrib-stylus": "~1.2.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-jsxhint": "~0.7.0",
+    "grunt-webpack": "~1.0.11",
+    "mocha": "~2.4.5",
+    "webpack": "~1.12.14",
+    "webpack-dev-server": "~1.14.1"
+  }
+}
