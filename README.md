@@ -1,6 +1,6 @@
 # React-Stack
 ---
-This is a base stack for React development. It has the most basic utilitites to help a developer write code, check syntax errors, compile stylus code and the like.
+This is a base stack for React development. It has the most basic utilities to help a developer write code, check syntax errors, compile stylus code and the like.
 
 ####Installation
 Clone the repository to an empty folder by executing:
