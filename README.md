@@ -6,7 +6,7 @@ This is a base stack for React development. It has the most basic utilitites to 
 Clone the repository to an empty folder by executing:
 
 ```javascript
-npm clone https://www.github.com/NeasTDL/React-Stack
+npm clone https://github.com/randgris-team/React-Stack.git
 ```
 
 Then install the project dependencies by the following instruction:
