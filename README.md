@@ -1,5 +1,5 @@
 # React-Stack
----
+
 This is a base stack for React development. It has the most basic utilities to help a developer write code, check syntax errors, compile stylus code and the like.
 
 ####Installation
