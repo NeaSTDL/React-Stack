@@ -32,7 +32,7 @@ grunt watch
 This task will look over for changes on our .styl and .js(x) files. 
 
 ```javascript
-grunt webserver
+grunt devserver
 ```
 
 This task will initialize our Webpack Development Server on our local machine. By default, the content will be served on:
